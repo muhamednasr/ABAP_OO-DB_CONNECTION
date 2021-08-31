@@ -1,0 +1,2 @@
+# ABAP_OO-DB_CONNECTION
+DB link Connection OO ABAP
